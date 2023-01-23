@@ -62,21 +62,24 @@ Wir werde mit Google Colab arbeiten. Google Colab ist ein nützliches Tool, da e
 Hier ist die Umgebeung von Yolov5 github Repo: https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb
 
 1. GitHub-Repository von YoloV5 klonen
+
 ![image](https://user-images.githubusercontent.com/48016716/214070598-0c7281e0-29cb-4c71-b649-d0069b5a8758.png)
 
 2. vortrainierte Daten hochladen
+
 ![image](https://user-images.githubusercontent.com/48016716/214071180-e07dcfa7-0342-4c1e-8876-3866cf5e6212.png)
 
 3. Hochgeladene Daten unzipen
+
 ![image](https://user-images.githubusercontent.com/48016716/214071975-78b932c2-d86e-4362-9d4a-92baf2294d4e.png)
 
 
 ## Das Modell trainieren
-Einfach den Befehl hier ausführen und schon sind haben wir ein vortrainiertes Model 
+#### Einfach den Befehl hier ausführen und schon sind haben wir ein vortrainiertes Model 
 ![image](https://user-images.githubusercontent.com/48016716/214072817-84fe7431-3326-4d47-aaa2-49e2965ec5ed.png)
 
 
-Die vortrainierte Daten findet man hier
+#### Die vortrainierte Daten findet man hier
 ![image](https://user-images.githubusercontent.com/48016716/214073275-efbead9a-e15b-4c79-ad63-d2985ce7431b.png)
 
 
